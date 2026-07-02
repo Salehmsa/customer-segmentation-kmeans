@@ -2,6 +2,8 @@
 
 Segmenting customers into groups based on **Age** and **Buying Score** using K-Means clustering, with an interactive Gradio app to predict a new customer's segment.
 
+Live demo: [huggingface.co/spaces/Salehmsa/hf_space](https://huggingface.co/spaces/Salehmsa/hf_space)
+
 ## What's inside
 
 - `clustering_data.ipynb` — full analysis: EDA, choosing the number of clusters (Elbow method + Silhouette score), training K-Means, labeling and visualizing the clusters, and comparing scaled vs. unscaled features.
